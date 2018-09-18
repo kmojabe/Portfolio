@@ -1,0 +1,13 @@
+.intro-heading {
+  text-shadow: 2px 2px #000000;
+}
+
+.intro-lead-in{
+  text-shadow: 2px 2px #000000;
+}
+
+.underline {
+  /* text-shadow: 1px 1px black; */
+  text-decoration: underline;
+  color: #6c757d!important;
+}
