@@ -11,3 +11,7 @@
   text-decoration: underline;
   color: #6c757d!important;
 }
+
+.text-muted {
+  font-size: small;
+}
